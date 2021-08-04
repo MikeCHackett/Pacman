@@ -34,4 +34,5 @@ PacMan simulator is a fun project I created to show edge detection mechanics and
 - [Link to Github](https://github.com/MikeCHackett)
 
 ## Credits
+MiT xPro license.
 All credits to Mit x Pro for helping me with images and resources on this assignment.
