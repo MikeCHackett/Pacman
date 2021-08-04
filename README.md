@@ -1,6 +1,6 @@
 ## PacMan
 
-https://images2.minutemediacdn.com/image/upload/c_crop,h_1203,w_1808,x_0,y_5/v1555000306/shape/mentalfloss/pac_man_hed.jpg?itok=phLsyAx8
+- ! [https://images2.minutemediacdn.com/image/upload/c_crop,h_1203,w_1808,x_0,y_5/v1555000306/shape/mentalfloss/pac_man_hed.jpg?itok=phLsyAx8]
 
  PacMan-Simulator
 PacMan simulator is a fun project I created to show edge detection mechanics and show change of directions.
