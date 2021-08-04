@@ -1,4 +1,5 @@
-**Pacman**
+## PacMan
+
  PacMan-Simulator
 PacMan simulator is a fun project I created to show edge detection mechanics and show change of directions.
 
