@@ -9,13 +9,13 @@ PacMan simulator is a fun project I created to show edge detection mechanics and
 
 
 ## Description
-Pac-Man starts to move from left to right with interchanging images.
+ - Pac-Man starts to move from left to right with interchanging images.
 
-Once it reaches the right most edge of the screen it changes its direction.
+ - Once it reaches the right most edge of the screen it changes its direction.
 
-It starts to move from right to left with interchanging images.
+ - It starts to move from right to left with interchanging images.
 
-Once it reaches left most edge of the screen it changes it direction.
+ - Once it reaches left most edge of the screen it changes it direction.
 
 
 ## Built with
