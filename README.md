@@ -4,6 +4,7 @@
 
  PacMan-Simulator
 PacMan simulator is a fun project I created to show edge detection mechanics and show change of directions.
+<img src= "PacMan1.png" width= '300'/>
 
 **What I Learned**
 - How to use setInterval() for continuous movement of Pac-Man
