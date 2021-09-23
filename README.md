@@ -6,9 +6,7 @@
 PacMan simulator is a fun project I created to show edge detection mechanics and show change of directions.
 <img src= "PacMan1.png" width= '300'/>
 
-**What I Learned**
-- How to use setInterval() for continuous movement of Pac-Man
-- How to implement css and use stop setInterval
+
 
 
 ## Description
@@ -21,10 +19,17 @@ PacMan simulator is a fun project I created to show edge detection mechanics and
  - Once it reaches left most edge of the screen it changes it direction.
 
 
-## Built with
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/Javascript)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## How To Run
+Clone this project:
+$ git clone https://github.com/MikeCHackett/Pacman
+
+Access:
+$ cd Bus-tracker
+
+Run the project:
+$ open index.html
+
+
  
 ## Link To Site
 - [View Site Here](https://mikechackett.github.io/Pacman/)
