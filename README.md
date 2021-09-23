@@ -24,7 +24,7 @@ Clone this project:
 $ git clone https://github.com/MikeCHackett/Pacman
 
 Access:
-$ cd Bus-tracker
+$ cd Pacman
 
 Run the project:
 $ open index.html
