@@ -1,6 +1,6 @@
 body {
-    background-color: #ff0000;
-    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+    background-color: #ffed4b;
+    background: linear-gradient(110deg, #ff0000 60%, #ffcccb 60%);
 }
 
 .button {
